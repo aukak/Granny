@@ -1,6 +1,7 @@
 # Granny
 
 A webport of the game [Granny](https://store.steampowered.com/app/962400/Granny/)!
+Please credit me with text credits or popup if you use this; someway of credit.
 
 ---
 # Building
